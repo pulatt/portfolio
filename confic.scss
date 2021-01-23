@@ -1,0 +1,51 @@
+
+.confic {
+ padding: 5rem;
+ word-spacing: 3px;
+    
+ 
+		// .confic__h1
+
+		&__h1 {
+            padding: 2rem;
+            font-size: 2rem;
+            font-weight: bold;
+            color: #292929;
+		}
+
+		// .confic__h2
+
+		&__h2 {
+            padding: 1rem;
+            font-size: 1.5rem;
+            color: #292929;
+		}
+
+		// .confic__p
+
+		&__p {
+            font-size: 1.3rem;
+            color: #353535;
+            line-height: 2rem;
+		}
+}
+
+
+.confic {
+
+        // .confic__social
+        padding: 3rem;
+
+		&__social {
+            padding: 3rem;
+		}
+}
+.social {
+
+		// .social__page
+
+		&__page {
+            padding: 0.3rem;
+
+		}
+}
